@@ -1,0 +1,1435 @@
+fileFormatVersion: 2
+guid: f5aacd2a0ec26ad4aaf60453bb410f3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6105703459662907092
+    second: DS DSi - LEGO Battles - Monkey_0
+  - first:
+      213: -1779100423162991807
+    second: DS DSi - LEGO Battles - Monkey_1
+  - first:
+      213: 1396355721700883817
+    second: DS DSi - LEGO Battles - Monkey_2
+  - first:
+      213: 2486192444390267401
+    second: DS DSi - LEGO Battles - Monkey_3
+  - first:
+      213: 395078306075668158
+    second: DS DSi - LEGO Battles - Monkey_4
+  - first:
+      213: -2875565573782493043
+    second: DS DSi - LEGO Battles - Monkey_5
+  - first:
+      213: 8404973852920618388
+    second: DS DSi - LEGO Battles - Monkey_6
+  - first:
+      213: -8864099101078961128
+    second: DS DSi - LEGO Battles - Monkey_7
+  - first:
+      213: -5093266822387440954
+    second: DS DSi - LEGO Battles - Monkey_8
+  - first:
+      213: 7870047362465293543
+    second: DS DSi - LEGO Battles - Monkey_9
+  - first:
+      213: -4058118562815170804
+    second: DS DSi - LEGO Battles - Monkey_10
+  - first:
+      213: -7891515681446276457
+    second: DS DSi - LEGO Battles - Monkey_11
+  - first:
+      213: -7980087776479830178
+    second: DS DSi - LEGO Battles - Monkey_12
+  - first:
+      213: 1111833756510681348
+    second: DS DSi - LEGO Battles - Monkey_13
+  - first:
+      213: -1714162340112200507
+    second: DS DSi - LEGO Battles - Monkey_14
+  - first:
+      213: 2750221756476870558
+    second: DS DSi - LEGO Battles - Monkey_15
+  - first:
+      213: -1940020615220076223
+    second: DS DSi - LEGO Battles - Monkey_16
+  - first:
+      213: -8621909939541424811
+    second: DS DSi - LEGO Battles - Monkey_17
+  - first:
+      213: 7233638993127186369
+    second: DS DSi - LEGO Battles - Monkey_18
+  - first:
+      213: 689994321854918589
+    second: DS DSi - LEGO Battles - Monkey_19
+  - first:
+      213: 5166832737150537042
+    second: DS DSi - LEGO Battles - Monkey_20
+  - first:
+      213: 8052093175749602335
+    second: DS DSi - LEGO Battles - Monkey_21
+  - first:
+      213: -2198030605091937844
+    second: DS DSi - LEGO Battles - Monkey_22
+  - first:
+      213: -7023280409640099102
+    second: DS DSi - LEGO Battles - Monkey_23
+  - first:
+      213: 4646953729369185150
+    second: DS DSi - LEGO Battles - Monkey_24
+  - first:
+      213: 4827555966385480152
+    second: DS DSi - LEGO Battles - Monkey_25
+  - first:
+      213: 9143876027172937237
+    second: DS DSi - LEGO Battles - Monkey_26
+  - first:
+      213: 6234611378775855713
+    second: DS DSi - LEGO Battles - Monkey_27
+  - first:
+      213: 3497031707303947252
+    second: DS DSi - LEGO Battles - Monkey_28
+  - first:
+      213: 8726628368019211660
+    second: DS DSi - LEGO Battles - Monkey_29
+  - first:
+      213: -4896951714431130715
+    second: DS DSi - LEGO Battles - Monkey_30
+  - first:
+      213: -1280305024226627890
+    second: DS DSi - LEGO Battles - Monkey_31
+  - first:
+      213: 7856035531789869403
+    second: DS DSi - LEGO Battles - Monkey_32
+  - first:
+      213: 7135082306425668903
+    second: DS DSi - LEGO Battles - Monkey_33
+  - first:
+      213: 409016955453593377
+    second: DS DSi - LEGO Battles - Monkey_34
+  - first:
+      213: 7403577186418640773
+    second: DS DSi - LEGO Battles - Monkey_35
+  - first:
+      213: 5316435598896316336
+    second: DS DSi - LEGO Battles - Monkey_36
+  - first:
+      213: -6142076065180088601
+    second: DS DSi - LEGO Battles - Monkey_37
+  - first:
+      213: -7169398608070743613
+    second: DS DSi - LEGO Battles - Monkey_38
+  - first:
+      213: -2884684204806564194
+    second: DS DSi - LEGO Battles - Monkey_39
+  - first:
+      213: 5108683884586700866
+    second: DS DSi - LEGO Battles - Monkey_40
+  - first:
+      213: -5805210726751022732
+    second: DS DSi - LEGO Battles - Monkey_41
+  - first:
+      213: 9064419852196018601
+    second: DS DSi - LEGO Battles - Monkey_42
+  - first:
+      213: -1748932032619190137
+    second: DS DSi - LEGO Battles - Monkey_43
+  - first:
+      213: 857431650843313836
+    second: DS DSi - LEGO Battles - Monkey_44
+  - first:
+      213: 4426494921740621284
+    second: DS DSi - LEGO Battles - Monkey_45
+  - first:
+      213: 7101131487052042570
+    second: DS DSi - LEGO Battles - Monkey_46
+  - first:
+      213: 2140752613680712007
+    second: DS DSi - LEGO Battles - Monkey_47
+  - first:
+      213: 722804510515271515
+    second: DS DSi - LEGO Battles - Monkey_48
+  - first:
+      213: 2895094088738711904
+    second: DS DSi - LEGO Battles - Monkey_49
+  - first:
+      213: -779023719479646818
+    second: DS DSi - LEGO Battles - Monkey_56
+  - first:
+      213: -6604411499254537482
+    second: DS DSi - LEGO Battles - Monkey_57
+  - first:
+      213: 8599193895023051350
+    second: DS DSi - LEGO Battles - Monkey_60
+  - first:
+      213: -747564514215965771
+    second: DS DSi - LEGO Battles - Monkey_61
+  - first:
+      213: -6211267506203613880
+    second: DS DSi - LEGO Battles - Monkey_62
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1debf6eea9db84eab3a28f2dcc0916
+      internalID: -6105703459662907092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31283ef6bcb89864f8d5567edce3fa8b
+      internalID: -1779100423162991807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8353e999076e9c94e8d6d2cabcbad3e3
+      internalID: 1396355721700883817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f9db5b0b994204ab41d00d943ff8d0
+      internalID: 2486192444390267401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f678ac7a055f6504297ca4e268421e63
+      internalID: 395078306075668158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11afbdcbc8139144be99095c6e90ef3
+      internalID: -2875565573782493043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b450c7641ec587478deaa4701365139
+      internalID: 8404973852920618388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb4c94df59680540936f8cab4bec651
+      internalID: -8864099101078961128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5340311965ed64b42a6bfd101cc06b18
+      internalID: -5093266822387440954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fe4925fc44b1b4e94fc3c3949c245d
+      internalID: 7870047362465293543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9877bd10b54e83b459cf6c11fbf9a403
+      internalID: -4058118562815170804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc5dffb5e62d624981d88c801fac921
+      internalID: -7891515681446276457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23351ee9f117d72468dee8f7393c101a
+      internalID: -7980087776479830178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f86910abb10d914d860955369c4c554
+      internalID: 1111833756510681348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedb8b590218e674aaa97067f1a7f289
+      internalID: -1714162340112200507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c25e839b5f2ec64983f88766fdb6853
+      internalID: 2750221756476870558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec8f263b4299a24c915c5b3508183b1
+      internalID: -1940020615220076223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545f92307b7873f47b0b3aef250ade1f
+      internalID: -8621909939541424811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025029f86943e6f47acc1bc9acc108c6
+      internalID: 7233638993127186369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0f864bbcaa7f146880865aae0b4731
+      internalID: 689994321854918589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082fcb71ce363db419edd56bb87566a0
+      internalID: 5166832737150537042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68acd8bbfba69b1478fcca156bed412e
+      internalID: 8052093175749602335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086397e6a9641e8449dc280cf7f6de08
+      internalID: -2198030605091937844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bd864cb66a1b541aaede929fd0007b
+      internalID: -7023280409640099102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b4418d186c40a40bac548241cd9543
+      internalID: 4646953729369185150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cbbdc4f870c5543a156e38ab41a723
+      internalID: 4827555966385480152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a41abef019906f47b0e98132426a1e7
+      internalID: 9143876027172937237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11322556c202f84ba884715b1271a8e
+      internalID: 6234611378775855713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f88a412971531499c284b22157af9e
+      internalID: 3497031707303947252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74e361c3de9fb249b6781868dedc437
+      internalID: 8726628368019211660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3095c8f4ad7b09469236fcda302fb0b
+      internalID: -4896951714431130715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b14642afc5aa704cb0ffa6909a05a8e
+      internalID: -1280305024226627890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fa3869992db3444ae9bf9cc6c6bbab
+      internalID: 7856035531789869403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cfcabb3279f254185ac94f5cd785e0
+      internalID: 7135082306425668903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d8b096f56af7440b421ca8425c6a8c
+      internalID: 409016955453593377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209c8caa775b5ee4db060dd45e340b21
+      internalID: 7403577186418640773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_36
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce29e090ae5fbc94ca0221b0d5cb60fe
+      internalID: 5316435598896316336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73f75ca93d7b4a47ba5b2f9487c4163
+      internalID: -6142076065180088601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2df7245813a7e4b86195cb465af405
+      internalID: -7169398608070743613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcb1f39d2d3b874c8c7a1197c12c9c9
+      internalID: -2884684204806564194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82be9320349d9b844ad0a91d7e1766e0
+      internalID: 5108683884586700866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932656fe754c2bf49bd2005f8d85ea3e
+      internalID: -5805210726751022732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9da98f7b7c65141abcea5cf684ea0c
+      internalID: 9064419852196018601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731ed7ba98bb0d04a8d1333072f55130
+      internalID: -1748932032619190137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15f38ff34aafb741a45e1836a6f0ce6
+      internalID: 857431650843313836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49122b51f1c6be749a841117be66d3b0
+      internalID: 4426494921740621284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_46
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3500dae08ffa6ef4596ff0c9ba9ddf47
+      internalID: 7101131487052042570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_47
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00dd2f8de8f5a248b1399ce61c4392e
+      internalID: 2140752613680712007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a56918e73992449bbe6b31cd530c92
+      internalID: 722804510515271515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeb32b6c0434a44fa21eb4028e9481a
+      internalID: 2895094088738711904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_56
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 78
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d3135a72ab2a8488641de9b5d87994
+      internalID: -779023719479646818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_57
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 78
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3836f12a1b093ee438acf232f6d0569c
+      internalID: -6604411499254537482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_60
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 78
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8632cabb650d14e9fba836cc1d763b
+      internalID: 8599193895023051350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_61
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 78
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc47fef0e3637c4d8710cd195fad9bc
+      internalID: -747564514215965771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - LEGO Battles - Monkey_62
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 78
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da849c49dcca7243b5c159a17853a8c
+      internalID: -6211267506203613880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
